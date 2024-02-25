@@ -1,1 +1,17 @@
 /* Add screen styles below */
+body {
+    background: #3A3B3C;
+    color: #F5F5F4;
+    text-align: center;
+}
+
+h1 {
+   text-align: left;
+   padding-left: 160px;
+}
+
+
+img {
+    padding-bottom: 20px;
+    border-radius: 10px;
+}
